@@ -1,2 +1,3 @@
 # Embedded-Systems---Deepdive
-# For beginners ; Starts from basic C code 
+# This repository focuses on Embedded C begineers 
+# A step-by step and Day by Day approach
