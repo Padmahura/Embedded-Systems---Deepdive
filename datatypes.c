@@ -3,7 +3,7 @@
 int main()
 {
     
-    
+    ////////// Char = 8 bits ; Can accept values till 255 only; Beyond that we need to use short  /////////////
     unsigned char distanceA2B = 250;
     unsigned char distanceB2C = 20;
     
