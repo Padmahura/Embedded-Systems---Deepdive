@@ -1,3 +1,7 @@
+/****************************************************************
+  This code is an example to understand different data types in C
+*****************************************************************/
+
 #include <stdio.h>
 
 int main()
