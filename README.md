@@ -1,3 +1,2 @@
-# Embedded-Systems---Deepdive
-# This repository focuses on Embedded C begineers 
-# A step-by step and Day by Day approach
+This repository contains a step by step approach for C code 
+Focus : Embedded C Beginners 
