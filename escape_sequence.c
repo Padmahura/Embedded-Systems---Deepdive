@@ -1,3 +1,7 @@
+/****************************************************************
+  This code is an example to understand the escape sequences used in C
+*****************************************************************/
+
 #include <stdio.h>
 
 int main()
