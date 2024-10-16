@@ -1,5 +1,7 @@
+/************************* Main file ************/
+
 # include <stdio.h>
-# include "math.h"
+# include "math.h"    // User defined header file 
 
 
 int main()
