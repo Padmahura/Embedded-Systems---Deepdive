@@ -1,4 +1,4 @@
-/************************* Main file ************/
+/************************* An example to call functions from multiple files ************/
 
 # include <stdio.h>
 # include "math.h"    // User defined header file 
