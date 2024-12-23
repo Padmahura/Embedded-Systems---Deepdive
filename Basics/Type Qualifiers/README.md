@@ -21,7 +21,7 @@
 - volatile uint8_t data;  // volatile data
 
 ## Non volatile pointer to volatile data
-- - uint8_t volatile *pointerData;  // pointerData is a non volatile pointer,pointing to volatile data of type uint8
+- uint8_t volatile *pointerData;  // pointerData is a non volatile pointer,pointing to volatile data of type uint8
 ## volatile pointer to non volatile data
 - uint8_t *volatile pointerData;  // pointerData is a volatile pointer,pointing to non volatile data of type uint8
 ## volatile pointer to volatile data
