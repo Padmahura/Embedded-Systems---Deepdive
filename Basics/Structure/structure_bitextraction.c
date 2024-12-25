@@ -51,4 +51,18 @@ fflush(stdout);
 
 printf("Size of strcut is %I64lld  \n" ,sizeof(frame));
 }
+/*******************************************************************
+*****************Console Output*************************************
+enter the Packet data 
+ffff1234
+Crc: 0 
+Status: 1 
+Payload: 246 
+Bat: 6 
+Sensor: 7 
+Longaddr: ff 
+Shortaddr: 3 
+Addrmode: 1 
+Size of strcut is 4  
+*****************************************************************/
 
